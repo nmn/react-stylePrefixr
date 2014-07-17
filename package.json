@@ -1,0 +1,27 @@
+{
+  "name": "react-stylePrefixr",
+  "version": "0.0.1",
+  "description": "A simple utility to help deal with vendor prfixes in ReactJS styles.",
+  "main": "stylePrefixr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naman34/react-stylePrefixr.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "styles",
+    "prefix",
+    "vendor",
+    "prefixr"
+  ],
+  "author": "Naman Goel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naman34/react-stylePrefixr/issues"
+  },
+  "homepage": "https://github.com/naman34/react-stylePrefixr"
+}
