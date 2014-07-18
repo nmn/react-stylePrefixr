@@ -1,6 +1,6 @@
 {
   "name": "react-prefixr",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A simple utility to help deal with vendor prfixes in ReactJS styles.",
   "main": "stylePrefixr.js",
   "scripts": {
