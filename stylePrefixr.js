@@ -8,6 +8,7 @@ if(!!global.document){
 
 var prefixes = ["ms", "Moz", "Webkit", "O"];
 var properties = [
+  'userSelect',
   'transform',
   'transition',
   'transformOrigin',
@@ -65,7 +66,7 @@ module.exports = (function(){
 
     for(var key in obj){
       if(cache[key] === undefined){
-        cache[key] = GetVendorPrefix(key);  
+        cache[key] = GetVendorPrefix(key);
       }
       result[cache[key]] = obj[key];
     }
