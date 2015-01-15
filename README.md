@@ -40,3 +40,4 @@ All properties are left untouched when run in Node.
 ## TO-DO
 - Add some code to transform the values of certain properties. e.g. `transition: "transform 0.5s ease"` Should become `WebkitTransition: "-webkit-transform 0.5s ease".
 - Find missing holes in the list of properties being checked.
+- depend on a third party library to work within node.
