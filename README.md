@@ -1,5 +1,7 @@
 # React-Prefixr
 
+## Deorecated - Use https://github.com/postcss/postcss-js
+
 React-Prefixr, is a utility primarily for managing vendor prefixes for styles in React.
 
 That said, React-Prefixr has no dependencies and can be used in projects where you are not using React.
